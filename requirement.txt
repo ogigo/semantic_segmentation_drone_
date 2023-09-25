@@ -1,0 +1,9 @@
+torch
+segmentation-models-pytorch
+pandas
+numpy
+cv2
+matplotlib
+albumentations
+streamlit
+altair==4
